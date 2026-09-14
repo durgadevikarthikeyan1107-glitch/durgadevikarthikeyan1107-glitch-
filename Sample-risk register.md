@@ -24,3 +24,17 @@ providers to coordinate prescription workflows.
 
 **Overall System Categorization: High**
 *(Set to the highest of the three ratings, per FIPS 199 "high water mark" methodology.)*
+
+  
+  ## Selected NIST 800-53 Controls
+  
+<details>
+<summary>Click to expand: Access Control</summary>
+
+| Control ID | Control Name | Implementation Description | Status |
+|---------------------|--------------|----------------|----------------|
+ | AC-2 | Account Management | how user accounts (doctors, pharmacies, patients) are created, reviewed, and disabled |  Implemented |
+ 
+
+</details>
+
